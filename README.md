@@ -1,13 +1,13 @@
-WSL?
-===
-Windows Subsystem for Linux
+<h1>WSL?</h1>
+<ul>
+  <li>Windows Subsystem for Linux</li>
+</ul>
 
----
 
-REQUIREMENTS
-===
-
-- Windows 10 build 16215
+<h1>REQUIREMENTS</h1>
+<ul>
+  <li>Windows 10 build 16215</li>
+</ul>
 
 ---
 
@@ -30,7 +30,7 @@ WHY?
 ===
 
 - Supposedly lighter than Ubuntu
-- Allows you to still interact with Windows 
+- Allows you to still interact with Windows
 - Less confusing for a student to go home with only Windows after Setup day
 - Share file between Ubuntu & Windows
 
