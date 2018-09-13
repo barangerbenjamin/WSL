@@ -9,12 +9,12 @@
   <li>Windows 10 build 16215</li>
 </ul>
 
----
+<h1>WHAT IS IT?</h1>
+<ul>
+  <li>Enables you to run native Linux command-line tools directly on Windows, alongside your traditional Windows</li>
+  <li><a href="untitled.jpg"></a></li>
+</ul>
 
-WHAT IS IT?
-===
-Enables you to run native Linux command-line tools directly on Windows, alongside your traditional Windows
-![](/Users/benjaminbaranger/Desktop/Untitled.jpg)
 
 
 ---
